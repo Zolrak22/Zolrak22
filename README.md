@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos, otherwise known as @Zolrak22 
 - 👀 I’m interested in game development, coding, project management and technology.
-- 🌱 I’m currently learning c#, unity and game development.
-- 💞️ I’m looking to collaborate on video games.
+- 🌱 I’m currently learning c++ and the Unreal engine.
+- 💞️ I’m looking to collaborate on video games and I'm always willing to help where I can.
 - 📫 You can reach me on [Twitter](https://twitter.com/Zolrak22), [LinkedIn](https://www.linkedin.com/in/carlospolopr/) & Discord as Zolrak 22#4037.
 
 <!---
